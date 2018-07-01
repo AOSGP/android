@@ -13,7 +13,7 @@
   <project path="vendor/qcom/sdclang-3.8" name="aosgp/android_vendor_qcom_sdclang" remote="github" revision="3.8.8" />
   <project path="packages/apps/AOSGPOTA" name="aosgp/packages_apps_AOSGPOTA" remote="github" revision="nougat" />
   <project path="supported" name="aosgp/Supported_devices" remote="github" revision="nougat" />
-  <project path="frameworks/base" name="aosgp/android_frameworks_base" revision="7.1-2" />
+  <project path="frameworks/base" name="aosgp/base_aosgp" remote="gitlab" revision="7.1-2" />
   <project path="packages/apps/crDroidSettings" name="aosgp/android_packages_apps_AOSGPSettings" revision="cm-14.1" />
   <project path="external/DUtils" name="crdroidandroid/android_external_DUtils" remote="crdroid" />
   <project path="frameworks/opt/cards" name="crdroidandroid/android_frameworks_opt_cards" remote="crdroid" />
